@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733992375874",
+    "project_id": "chat-app-5430b",
+    "storage_bucket": "chat-app-5430b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733992375874:android:00cd9c75b23f99b8b4ffdb",
+        "android_client_info": {
+          "package_name": "com.surekeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733992375874-7epudc59vvjcm1ik59u9498u96sds75m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ9w2l1fi1ROYnizmDkHQuPZ5XwThqH-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733992375874-7epudc59vvjcm1ik59u9498u96sds75m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
